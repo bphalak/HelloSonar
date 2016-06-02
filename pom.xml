@@ -20,7 +20,7 @@
 			<artifactId>sonar-jacoco-listeners</artifactId>
 			<version>3.8</version>
 			<scope>test</scope>
-		</dependency>
+		</dependency> 
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
